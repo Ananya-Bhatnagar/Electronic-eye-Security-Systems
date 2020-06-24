@@ -1,0 +1,2 @@
+# Electronic-eye-Security-Systems
+Electronic eye describes the design and implementation of Door keeping using Microcontroller based security system for home and offices. It provides the user with efficient and reliable security system for Door watcher for home, offices and industries that supports the use of a sensor at the door to send the signals to control unit of electronic eye with buzzer alarm for security purpose. As soon as any intruder comes into the restricted area the alarm buzz and a security notification message will be sent to the desired person. 
